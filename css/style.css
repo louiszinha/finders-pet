@@ -41,8 +41,6 @@ body {
     padding: 4px 6px;
     border-radius: 20px;
     border-color: #FF8200;
-
-
 }
 .btn-logar:hover {
     font-weight: bold;
@@ -58,6 +56,15 @@ body {
 
 .conteudo-principal-text {
     padding-top: 10em;
+}
+
+.btn-contatos {
+    color: #fff;
+    background: #FF8200;
+    padding: 4px;
+    border-radius: 20px;
+    border-bottom: #FF8200;
+    transition: 0.8ms;
 }
 
 .imagem-principal{
